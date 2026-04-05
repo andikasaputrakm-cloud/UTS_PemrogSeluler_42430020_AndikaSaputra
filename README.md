@@ -1,9 +1,9 @@
 # UTS Pemrograman Seluler - Aplikasi Generator Lembar Penilaian
 
 ## Identitas Mahasiswa
-- **Nama Lengkap:** [I Komang Andika Surya Saputra]
-- **NIM:** [42430020]
-- **Program Studi:** [Teknologi Informasi]
+- **Nama Lengkap:** I Komang Andika Surya Saputra
+- **NIM:** 42430020
+- **Program Studi:** Teknologi Informasi
 
 ## Deskripsi Aplikasi
 Aplikasi ini dibangun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pemrograman Seluler. Aplikasi ini mendemonstrasikan penguasaan materi paruh pertama semester, meliputi:
