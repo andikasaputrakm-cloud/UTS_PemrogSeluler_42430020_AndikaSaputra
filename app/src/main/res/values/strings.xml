@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Saya UTS</string>
+    <string name="sapaan_dosen">Selamat Datang, %1$s!</string>
+    <string name="status_kelas">Status Kelas: %1$s</string>
+    <string name="mahasiswa_absen">Mahasiswa ke-%1$d hadir\n</string>
+    <string name="isi_semua_data">Harap isi semua data!</string>
+    <string name="nama_kosong">Nama tidak boleh kosong!</string>
+    <string name="portal_login">Portal Login Dosen</string>
+    <string name="hint_nama_dosen">Masukkan Nama Dosen</string>
+    <string name="btn_masuk">MASUK</string>
+    <string name="hint_jumlah_mahasiswa">Jumlah Mahasiswa</string>
+    <string name="hint_rata_rata_nilai">Rata-rata Nilai</string>
+    <string name="btn_proses">PROSES DATA</string>
+</resources>
